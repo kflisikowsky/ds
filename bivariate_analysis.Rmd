@@ -14,6 +14,8 @@ output:
     toc: yes
 ---
 
+
+
 ## Introduction
 
 This is our first lab when we are considering 2 dimensions and instead of calculating univariate statistics by groups (or factors) of other variable - we will measure their common relationships based on co-variance and correlation coefficients. 
